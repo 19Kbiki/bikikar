@@ -1,5 +1,5 @@
-## Hi there, I'm Biman Mandal 👋🏼💻
-[![Linkedin Badge](https://img.shields.io/badge/-Biman%20Mandal-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bimanmandal/ "Connect on LinkedIn")
+## Hi there, I'm Biki karmakar 👋🏼💻
+[![Linkedin Badge](https://img.shields.io/badge/-Biman%20Mandal-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bikikarmakar)
 
 ## My TechStack
 
